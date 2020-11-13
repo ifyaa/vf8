@@ -6,7 +6,7 @@
       dark
     >
       <v-app-bar-nav-icon/>
-      <v-toolbar-title>Page title</v-toolbar-title>
+      <v-toolbar-title>ifyaa</v-toolbar-title>
       <v-spacer/>
       <v-btn icon to="/about">
         <v-icon>mdi-magnify</v-icon>
